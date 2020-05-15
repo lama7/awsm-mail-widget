@@ -9,7 +9,7 @@ email_icon:set_image("/usr/share/pixmaps/mutt.xpm")
 
 local ms = require("mailsettings")
 
-local mail_stat_cmd = [[bash -c '/home/lama7/bin/mbstat.lua ]]..ms.server..' '..ms.user..' '..ms.pw..[[']]
+local mail_stat_cmd = [[bash -c '/home/user/bin/mbstat.lua ]]..ms.server..' '..ms.user..' '..ms.pw..[[']]
 
 local mailbox_rows = {
     spacing = 4,
