@@ -1,3 +1,6 @@
+
+![awesome mail widget](awsm-mail-widget.jpg)
+
 # awsm-mail-widget
 
 An overly complicated mail widget for the awesome window manager.  Places an
