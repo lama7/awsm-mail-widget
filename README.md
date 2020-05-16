@@ -63,4 +63,4 @@ path to the script in the `mail-widget.lua` file.**
 The `mutt.xpm` file can either be copied to `/usr/share/pixmaps/` or change the
 directory specified in the `mail-widget.lua` file.
 
-    [1]: https://github.com/lama7/luaimap4 "IMAP4 lua library"
+[1]: https://github.com/lama7/luaimap4 "IMAP4 lua library"
